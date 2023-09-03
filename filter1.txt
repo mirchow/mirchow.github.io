@@ -1,0 +1,3 @@
+! Disable social sites during the day
+!
+||youtube.com^
