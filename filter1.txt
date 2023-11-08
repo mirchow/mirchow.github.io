@@ -1,3 +1,9 @@
 ! Disable social sites during the day
 !
 ||youtube.com^
+||twitter.com^
+||t.me^
+||netflix.com
+||hbo.com
+||max.com
+
